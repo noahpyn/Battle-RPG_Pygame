@@ -1,4 +1,4 @@
-# Final Fantasy style Game.
+# Final Fantasy style Game!
 Final Fantasy style RPG pygame.
 
 
